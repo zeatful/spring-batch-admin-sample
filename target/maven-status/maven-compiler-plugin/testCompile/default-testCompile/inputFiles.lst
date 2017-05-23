@@ -1,0 +1,6 @@
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/test/java/org/springframework/batch/admin/sample/BootstrapTests.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/test/java/org/springframework/batch/admin/sample/ExampleItemReaderTests.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/test/java/org/springframework/batch/admin/sample/JobIntegrationTests.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/test/java/org/springframework/batch/admin/sample/JobExecutionTests.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/test/java/org/springframework/batch/admin/sample/job/JobConfigurationTests.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/test/java/org/springframework/batch/admin/sample/ExampleItemWriterTests.java

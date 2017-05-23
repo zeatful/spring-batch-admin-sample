@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-batch-admin-sample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-batch-admin-sample-2.0.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-batch-admin-sample:war exploded" />
+    </root>
+  </artifact>
+</component>

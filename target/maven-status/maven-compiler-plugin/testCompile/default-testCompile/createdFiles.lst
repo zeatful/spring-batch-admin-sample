@@ -1,0 +1,8 @@
+org/springframework/batch/admin/sample/BootstrapTests$1.class
+org/springframework/batch/admin/sample/ExampleItemReaderTests.class
+org/springframework/batch/admin/sample/JobExecutionTests.class
+org/springframework/batch/admin/sample/ExampleItemWriterTests.class
+org/springframework/batch/admin/sample/BootstrapTests.class
+org/springframework/batch/admin/sample/job/JobConfigurationTests$BatchJobConfiguration.class
+org/springframework/batch/admin/sample/JobIntegrationTests.class
+org/springframework/batch/admin/sample/job/JobConfigurationTests.class

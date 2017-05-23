@@ -1,0 +1,7 @@
+org/springframework/batch/admin/sample/TrivialJobParametersIncrementer.class
+org/springframework/batch/admin/sample/job/JobConfiguration.class
+org/springframework/batch/admin/sample/ExampleItemReader.class
+org/springframework/batch/admin/sample/RemoteStep.class
+org/springframework/batch/admin/sample/StepLocatorStepFactoryBean.class
+org/springframework/batch/admin/sample/domain/Employee.class
+org/springframework/batch/admin/sample/ExampleItemWriter.class

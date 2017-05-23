@@ -1,0 +1,7 @@
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/ExampleItemReader.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/StepLocatorStepFactoryBean.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/domain/Employee.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/ExampleItemWriter.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/RemoteStep.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/job/JobConfiguration.java
+/Users/ericfoster/project_hell/spring-batch-admin/spring-batch-admin-sample/src/main/java/org/springframework/batch/admin/sample/TrivialJobParametersIncrementer.java
